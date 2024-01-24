@@ -25,4 +25,4 @@ docs for more detail on building and pushing.
 ## References
 * [Docker's Python guide](https://docs.docker.com/language/python/)
 * [Overview of Docker Desktop](https://docs.docker.com/desktop/)
-* ["Quantitative Economics", by Manuel V. Montesinos](https://github.com/manuelmontesinos/quant_econ)
+* [Python programs from "Quantitative Economics", by Manuel V. Montesinos](https://github.com/manuelmontesinos/quant_econ)
